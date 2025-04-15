@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#game-area {
+    width: 400px;
+    height: 400px;
+    background-color: #f0f0f0;
+    margin: 20px auto;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid #333;
+}
+
+#start-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#start-btn:hover {
+    background: #45a049;
+}
+
+#timer {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.star {
+    width: 30px;
+    height: 30px;
+    background-color: gold;
+    position: absolute;
+    border-radius: 50%;
+    box-shadow: 0 0 10px yellow;
+    cursor: pointer;
+}
