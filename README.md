@@ -18,4 +18,4 @@
    - `script.js` — логика
 
 ```bash
-git clone https://github.com/ваш-ник/ловец-звезд.git
+git clone https://github.com/TheTilda/StarGameForKids.git
